@@ -6,4 +6,5 @@
   - Attendance Management System
   - College Canteen Ordering Web App (in progress)
 
-📫 Reach me: [Your Email] | [LinkedIn Link]
+📫 Reach me: [kavya.burugu098@gmail.com] | [www.linkedin.com/in/
+b-kavya-b08639361]
